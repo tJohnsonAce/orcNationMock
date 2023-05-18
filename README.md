@@ -1,38 +1,39 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Orc Nation
 
-## Getting Started
+Welcome to Orc Nation! This is a Next.js project built with the purpose of showcasing our innovative NFT project, Orc Nation. The website leverages the power of Tailwind CSS for highly customizable, responsive design and Framer for high-quality motion and animations. The visual aesthetics of the site are enhanced with beautiful images sourced from Freepik.
 
-First, run the development server:
+Description
+Orc Nation is a platform to discover and interact with unique orc-inspired NFTs. The website is intended for digital art enthusiasts, collectors, and anyone interested in the space of NFTs and blockchain.
 
-```bash
+Getting Started
+Follow these instructions to set up the project locally.
+
+Prerequisites
+Make sure you have Node.js and npm installed.
+
+Installation
+Clone the repo: https://github.com/tJohnsonAce/orcNationMock.git
+
+Install NPM packages:
+npm install
+This installs the necessary packages, including Next.js, Tailwind CSS and Framer.
+
+Running Locally
+To run the project, use the following command:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open http://localhost:3000 in your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Usage
+Explore unique orc-inspired NFTs, learn about their rarity, and immerse yourself in the orc nation's rich lore.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Credits
+Images and assets provided by Freepik.
 
-## Learn More
+Contact
+If you have any questions, feedback or just want to say hi, please reach out to me.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# orcNationMock
->>>>>>> c1c7ba947a0ee154193f2c217164744b9d2c494b
+Email: tjohnsonace@outlook.com
+LinkedIn: https://www.linkedin.com/in/trevor-johnson-dev/
+Twitter: https://twitter.com/whizzkee
+Thank you for checking out Orc Nation!
