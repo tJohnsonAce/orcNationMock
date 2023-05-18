@@ -22,7 +22,7 @@ Running Locally
 To run the project, use the following command:
 npm run dev
 
-Then, open http://localhost:3000 in your browser to see the result.
+Then, open http://localhost:3000 in your browser to see the result, or, visit at https://orc-nation-mock.vercel.app/
 
 Usage
 Explore unique orc-inspired NFTs, learn about their rarity, and immerse yourself in the orc nation's rich lore.
